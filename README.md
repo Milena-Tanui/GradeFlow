@@ -77,13 +77,13 @@ HOW TO ADD SCREENSHOTS:
 -->
 
 ### Assessment Input Screen
-![Assessment Input](assets/screenshot-input.png)
+![Assessment Input](Assets/assets/screenshot-input.png)
 
 ### Generated Assessment Output
-![Assessment Output](assets/screenshot-output.png)
+![Assessment Output](Assets/assets/screenshot-output.png)
 
 ### CrewAI Agent Workflow
-![CrewAI Workflow](assets/screenshot-crewai.png)
+![CrewAI Workflow](Assets/assets/screenshot-crewai.png)
 
 ---
 
