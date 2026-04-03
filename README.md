@@ -2,7 +2,7 @@
 
 # 🎓 GradeFlow
 
-### AI-Powered Assessment Generation for Learning & Development Teams
+### AI-Powered Assessment Generation
 
 *Automatically generate tailored assessments from course content — in seconds, at scale.*
 
@@ -17,7 +17,7 @@
 
 ## 🧠 What is GradeFlow?
 
-GradeFlow is an agentic AI tool built for **corporate Learning & Development teams**. It ingests any course content — raw text, learning objectives, or module summaries — and instantly generates a fully structured, professionally worded assessment aligned to that content.
+GradeFlow is an agentic AI tool built to ingest any course content — raw text, learning objectives, or module summaries — and instantly generate a fully structured, professionally worded assessment aligned with that content.
 
 Every employee is assessed, ensuring evaluations are efficient and genuinely meaningful to each individual's learning journey. The result is a smarter, faster, and more equitable way for organizations to measure what their people know — and identify exactly where growth is needed next.
 
